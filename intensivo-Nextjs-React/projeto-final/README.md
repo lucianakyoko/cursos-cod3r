@@ -7,7 +7,7 @@
 | 2 | Resultado final | :heavy_check_mark: |
 | 3 | Configuracao: NextJS, TailwindCSS e Firebase | :heavy_check_mark: |
 | 4 | Componentes Layout e Titulo | :heavy_check_mark: |
-| 5 | Classe Cliente | :x: |
+| 5 | Classe Cliente | :heavy_check_mark: |
 | 6 | Componente Tabela #1 | :x: |
 | 7 | Componente Tabela #2 | :x: |
 | 8 | Componente Tabela #3 | :x: |
