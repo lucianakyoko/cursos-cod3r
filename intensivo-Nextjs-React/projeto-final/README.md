@@ -13,8 +13,8 @@
 | 8 | Componente Tabela #3 | :heavy_check_mark: concluido |
 | 9 | Componente Botao | :heavy_check_mark: concluido |
 | 10 | Componente Formulário | :heavy_check_mark: concluido |
-| 11 | Alternando entre tabela e Formulario | :x: pendente |
-| 12 | Integrando Tabela e Formulario | :x: pendente |
+| 11 | Alternando entre tabela e Formulario | :heavy_check_mark: concluido |
+| 12 | Integrando Tabela e Formulario | :heavy_check_mark: concluido |
 | 13 | Configurando Firebase no Projeto | :x: pendente |
 | 14 | Repositorio de Clientes | :x: pendente |
 | 15 | Integrando Cadastro com Firebase | :x: pendente |
