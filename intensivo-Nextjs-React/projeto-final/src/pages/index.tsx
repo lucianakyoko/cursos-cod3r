@@ -34,8 +34,6 @@ export default function Home() {
     setVisivel('tabela');
   };
 
-
-
   return (
     <div className={`
       flex h-screen justify-center items-center
