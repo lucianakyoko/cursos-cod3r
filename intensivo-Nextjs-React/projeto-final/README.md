@@ -15,8 +15,8 @@
 | 10 | Componente Formulário | :heavy_check_mark: concluido |
 | 11 | Alternando entre tabela e Formulario | :heavy_check_mark: concluido |
 | 12 | Integrando Tabela e Formulario | :heavy_check_mark: concluido |
-| 13 | Configurando Firebase no Projeto | :x: pendente |
-| 14 | Repositorio de Clientes | :x: pendente |
+| 13 | Configurando Firebase no Projeto | :heavy_check_mark: concluido |
+| 14 | Repositorio de Clientes | :heavy_check_mark: concluido |
 | 15 | Integrando Cadastro com Firebase | :x: pendente |
 | 16 | Organizando Código com Hooks | :x: pendente |
 | 17 | Excluindo Projeto Firebase | :x: pendente |
