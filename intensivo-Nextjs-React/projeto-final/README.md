@@ -19,7 +19,7 @@
 | 14 | Repositorio de Clientes | :heavy_check_mark: concluido |
 | 15 | Integrando Cadastro com Firebase | :heavy_check_mark: concluido |
 | 16 | Organizando Código com Hooks | :heavy_check_mark: concluido |
-| 17 | Excluindo Projeto Firebase | :x: pendente |
-| 18 | Conclusao do Curso | :x: pendente |
+| 17 | Excluindo Projeto Firebase | :heavy_check_mark: concluido |
+| 18 | Conclusao do Curso | :heavy_check_mark: concluido |
 
 ---
