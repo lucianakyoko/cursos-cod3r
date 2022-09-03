@@ -6,9 +6,9 @@
 
 
 ## Preview
-<img src="https://github.com/lucianakyoko/cursos-cod3r/blob/master/.github/intensivo-Next-React1.JPG" alt="print da tela" >
-<img src="https://github.com/lucianakyoko/cursos-cod3r/blob/master/.github/intensivo-Next-React2.JPG" alt="print da tela" >
-<img src="https://github.com/lucianakyoko/cursos-cod3r/blob/master/.github/intensivo-Next-React2.JPG" alt="print da tela" >
+<img width="400px" height="150px" src="https://github.com/lucianakyoko/cursos-cod3r/blob/master/.github/intensivo-Next-React1.JPG" alt="print da tela" >
+<img width="400px" height="150px" src="https://github.com/lucianakyoko/cursos-cod3r/blob/master/.github/intensivo-Next-React2.JPG" alt="print da tela" >
+<img width="400px" height="150px" src="https://github.com/lucianakyoko/cursos-cod3r/blob/master/.github/intensivo-Next-React2.JPG" alt="print da tela" >
 
 
 ## Aulas
