@@ -1,6 +1,18 @@
 # PROJETO FINAL
 ---
 
+## Sobre
+<p>Pequena aplicação CRUD com NextJS, Firebase, Firestore e TailwindCSS </p>
+
+
+## Preview
+<img src="../.github/intensivo-Next-React1.JPG" alt="print da tela" >
+<img src="../.github/intensivo-Next-React2.JPG" alt="print da tela" >
+<img src="../.github/intensivo-Next-React3.JPG" alt="print da tela" >
+
+
+## Aulas
+
 | --- | AULA | STATUS |
 | --- | --- | --- |
 | 1 | introdução ao modulo | :heavy_check_mark: concluido |
