@@ -21,7 +21,7 @@
 ## Capitulo II - Usando Tipos
 | --- | AULA | STATUS |
 | --- | --- | --- |
-| 1 | Introducao ao Modulo | --- |
+| 1 | Introducao ao Modulo | ✔️ |
 | 2 | O basico de Tipos | --- |
 | 3 | Tipos Numericos Booleanos | --- |
 | 4 | Atribuindo Tipos Explicitos | --- |
