@@ -64,7 +64,7 @@
 
 ## Capitulo XII - Integracao TypeScript + Webpack
 
-## Capitulo XII - Integracao TypeScript + React
+## Capitulo XIII - Integracao TypeScript + React
 
 ## Capitulo XIV - Integracao TypeScript + VueJS
 
