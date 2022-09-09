@@ -24,7 +24,7 @@
 | 1 | Introducao ao Modulo | ✔️ |
 | 2 | O basico de Tipos | ✔️ |
 | 3 | Tipos Numericos Booleanos | ✔️ |
-| 4 | Atribuindo Tipos Explicitos | --- |
+| 4 | Atribuindo Tipos Explicitos | ✔️ |
 | 5 | Arrays e Tipos | --- |
 | 6 | Tuplas | --- |
 | 7 | Enums | --- |
