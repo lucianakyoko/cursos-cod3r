@@ -25,8 +25,8 @@
 | 2 | O basico de Tipos | ✔️ |
 | 3 | Tipos Numericos Booleanos | ✔️ |
 | 4 | Atribuindo Tipos Explicitos | ✔️ |
-| 5 | Arrays e Tipos | --- |
-| 6 | Tuplas | --- |
+| 5 | Arrays e Tipos | ✔️ |
+| 6 | Tuplas | ✔️ |
 | 7 | Enums | --- |
 | 8 | O Tipo "Any" | --- |
 | 9 | Codigo JavaScript Gerado | --- |
