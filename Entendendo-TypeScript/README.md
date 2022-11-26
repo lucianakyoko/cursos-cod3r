@@ -1,21 +1,20 @@
 # Curso: Entendendo TypeScript
 ---
 
-## Capitulo I - Introducao
-
-| --- | AULA | STATUS |
-| --- | --- | --- |
-| 1 | Introducao do Curso | ✔️ concluido |
-| 2 | Mensagem do Maximilian S. | ✔️ concluido |
-| 3 | O que é TypeScript | ✔️ concluido |
-| 4 | Por que TypeScript e como usa-lo? | ✔️ concluido |
-| 5 | Usando o terminal | ✔️ concluido |
-| 6 | Terminais | ✔️ concluido |
-| 7 | Aviso importante usuarios Windows | ✔️ concluido |
-| 8 | Instalando TypeScript | ✔️ concluido |
-| 9 | Executando TypeScript - Manual | ✔️ concluido |
-| 10 | Executando TypeScript - Code Runner | ✔️ concluido |
-| 11 | Executando TypeScript - HTML | ✔️ concluido |
+## Capitulo I - Introduca
+  | --- | AULA | STATUS |
+  | --- | --- | --- |
+  | 1 | Introducao do Curso | ✔️ concluido |
+  | 2 | Mensagem do Maximilian S. | ✔️ concluido |
+  | 3 | O que é TypeScript | ✔️ concluido |
+  | 4 | Por que TypeScript e como usa-lo? | ✔️ concluido |
+  | 5 | Usando o terminal | ✔️ concluido |
+  | 6 | Terminais | ✔️ concluido |
+  | 7 | Aviso importante usuarios Windows | ✔️ concluido |
+  | 8 | Instalando TypeScript | ✔️ concluido |
+  | 9 | Executando TypeScript - Manual | ✔️ concluido |
+  | 10 | Executando TypeScript - Code Runner | ✔️ concluido |
+  | 11 | Executando TypeScript - HTML | ✔️ concluido |
 
  
 ## Capitulo II - Usando Tipos
