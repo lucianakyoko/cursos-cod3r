@@ -114,3 +114,9 @@ Exemplo: Alunos Aprovados (versão Funcional/ Declarativa)
 A imutabilidade é fundamental nop paradigma funcional: Pode esquecer tudo, menos:
   - mutabilidade isolada
   - imutabilidade compartilhada
+
+
+## Como o javascript functiona
+O JS é single tred
+
+Stack -> Pilha de execução
