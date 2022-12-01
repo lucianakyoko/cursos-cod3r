@@ -120,3 +120,6 @@ A imutabilidade é fundamental nop paradigma funcional: Pode esquecer tudo, meno
 O JS é single tred
 
 Stack -> Pilha de execução
+
+--- 
+# Funções
