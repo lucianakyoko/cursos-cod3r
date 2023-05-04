@@ -38,17 +38,17 @@
 | 9 | Codigo JavaScript Gerado | ✔️ |
 | 10 | Usando Tipos em Funcoes (Parametros e Retorno) | ✔️ |
 | 11 | Funcoes Como Tipos | ✔️ |
-| 12 | Objetos e Tipos | ⚫ |
-| 13 | Desafio Tipo Objetos | ⚫ |
-| 14 | Desagio Tipo Objetos - Resposta | ⚫ |
-| 15 | Definindo Tipos Personalizados (Alias) | ⚫ |
-| 16 | Multiplos Tipos com Union Typos | ⚫ |
-| 17 | Checando Tipos em Runtime | ⚫ |
-| 18 | O Tipo "Never" | ⚫ |
-| 19 | Valores Opcionais com Tipo "Null" | ⚫ |
+| 12 | Objetos e Tipos | ✔️ |
+| 13 | Desafio Tipo Objetos | ✔️ |
+| 14 | Desagio Tipo Objetos - Resposta | ✔️ |
+| 15 | Definindo Tipos Personalizados (Alias) | ✔️ |
+| 16 | Multiplos Tipos com Union Typos | ✔️ |
+| 17 | Checando Tipos em Runtime | ✔️ |
+| 18 | O Tipo "Never" | ✔️ |
+| 19 | Valores Opcionais com Tipo "Null" | ✔️ |
 | 20 | Desafio: Transformar Codigo JS em TS | ⚫ |
-| 21 | Desafio: Transformar Codigo JS em TS - Resposta | ⚫ |
-| 22 | Conclusao do Moduclo | ⚫ |
+| 21 | Desafio: Transformar Codigo JS em TS - Resposta | ✔️ |
+| 22 | Conclusao do Modulo | ✔️ |
 
 ## Capitulo III - Entendendo o Compilador TypeScript
 
