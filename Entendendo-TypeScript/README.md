@@ -51,8 +51,39 @@
 | 22 | Conclusao do Modulo | ✔️ |
 
 ## Capitulo III - Entendendo o Compilador TypeScript
+| --- | AULA | STATUS |
+| --- | --- | --- |
+| 1 | Introdução ao módulo | ✔️ |
+| 2 | Compilação e "noEmitOnError" | ✔️ |
+| 3 | Alterando o Target (Versão do JavaScript) | ✔️ |
+| 4 | Debugando com Source Maps | ✔️ |
+| 5 | Evitando "Any" implícito | ✔️ |
+| 6 | "strictNullChecks", "noUnusedParameters" e "noUnusedLocals" | ✔️ |
+| 7 | Diretório de saída | ✔️ |
+| 8 | Arquivo de saída | ✔️ |
+| 9 | Conclusão do módulo | ✔️ |
 
 ## Capitulo IV - TypeScript e os Novos Recursos ECMAScript
+| --- | AULA | STATUS |
+| --- | --- | --- |
+| 1 | Introdução do módulo | ✔️ |
+| 2 | Let e Const #1 | ✔️ |
+| 3 | Let e Const #2 | ✔️ |
+| 4 | Arrow function #1 | ✔️ |
+| 5 | Arrow function #2 | ✔️ |
+| 6 | Parâmetro padrão | ✔️ |
+| 7 | Operador Spread & Rest #1 | ✔️ |
+| 8 | Operador Spread & Rest #2 | ✔️ |
+| 9 | Operador Spread & Rest #3 | ✔️ |
+| 10 | Operador Destructuring (Array) | ✔️ |
+| 11 | Operador Destructuring (Objeto) | ✔️ |
+| 12 | Template string | ✔️ |
+| 13 | Desafio EMASCript | ✔️ |
+| 14 | Desafio EMASCript- código | ✔️ |
+| 15 | Desafio EMASCript - resposta | ✔️ |
+| 16 | Correção link API | ✔️ |
+| 17 | Promises | ✔️ |
+| 18 | Conclusão do módulo | ✔️ |
 
 ## Capitulo V - Usando Classes para Criar Objetos
 
